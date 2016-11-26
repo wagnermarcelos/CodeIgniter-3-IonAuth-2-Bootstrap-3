@@ -1,0 +1,7 @@
+/* clear styles for labels*/
+a.unlink {
+  color: inherit;
+}
+a.unlink:hover {
+  color: inherit;
+}
