@@ -1,7 +1,9 @@
 # CodeIgniter-3-IonAuth-2-Bootstrap-3
 
-###The future of authentication
-by [Ben Edmunds](http://benedmunds.com)
+###Original creation
+[Ben Edmunds](http://benedmunds.com)
+
+Added bootstrap 3 styling
 
 ##Documentation
 Documentation is located at http://benedmunds.com/ion_auth/
